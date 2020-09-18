@@ -1,6 +1,6 @@
 # HDL
 
-Various HDL Codes in VHDL/Verilog/SV. 
+Various HDL Codes in VHDL/Verilog. 
 
 Contents:
 
